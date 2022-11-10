@@ -1,7 +1,7 @@
 # AE2-project
 ## About Tourism Management System
 
-* Tourism Management System is a web application based on Maven technology that has been done in IntelliJ -java8 version, which keeps track of tourism details.
+* Tourism Management System is a web application based on Maven technology that has been done in IntelliJ -java11 version, which keeps track of tourism details.
 It is the system you use to do all the tourism packages and tourism plans management in a one complete system.  
 
 ### Major Technologies:
