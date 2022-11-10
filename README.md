@@ -36,7 +36,7 @@ To setup and install Tourism Management System project, follow the below steps :
 
 * Clone this project by the command:
 ```
-git@github.com:MohamedNaveedfc/demo-ae2-project.git
+git@github.com:MohamedNaveedfc/AE1-project.git
  ```
 * Then switch to the project folder ,unzip the file that has been cloned from git .
 * Then open the Intellij IDEA and open the folder through IDE.
