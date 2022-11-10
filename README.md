@@ -6,7 +6,7 @@ It is the system you use to do all the tourism packages and tourism plans manage
 
 ### Major Technologies:
 
-* Java8
+* Java11
 * Git
 * Maven
 * PHP
