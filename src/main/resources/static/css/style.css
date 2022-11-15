@@ -77,6 +77,12 @@ body{
 
 }
 
+#head{
+  color: White;
+  font-weight: 600;
+  background: linear-gradient(#34A0A4,#168AAD);
+}
+
 
 .nav-item.active a.nav-link{
     color: black;
@@ -177,7 +183,7 @@ li.nav-item button a:hover{
     align-items: center;
     margin: 10px auto;
     background: linear-gradient(#FD9A68,#F75C60);
-    height: 60px;
+    height: 80px;
 
   }
 
