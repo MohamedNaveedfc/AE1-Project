@@ -33,16 +33,18 @@
 
 #img{
   margin-left: 150px;
-  margin-bottom:20px;
+  margin-bottom: 50px;
 }
 #img1{
   margin-left: 300px;
-  margin-bottom:20px;
 }
 
 /*Main*/
 body{
-  background-color: #F7EFED;
+
+  background-image: url("img/234.jpg");
+
+
 }
 
 .-fluid{
@@ -65,7 +67,16 @@ body{
   font-size: 16px;
   font-weight: bold;
   margin-left: 2px;
+
 }
+#navlink{
+  padding-left: 350px;
+}
+#h2{
+  margin-left: 550px;
+
+}
+
 
 .nav-item.active a.nav-link{
     color: black;
@@ -198,19 +209,11 @@ li.nav-item button a:hover{
   font-weight:500;
 
 }
-#navlink{
-  padding-left: 400px;
-}
-#h2{
-  margin-left: 600px;
 
-}
 #ft{
   padding-left: 400px;
 }
-#text{
-  
-}
+
 
 
   #Brands-varieties{
